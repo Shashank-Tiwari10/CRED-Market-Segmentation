@@ -1,0 +1,6 @@
+stage,cards,holders,removed_pct,cumulative_removed_pct,holders_scaled_to_market_M
+0. Raw (clean),195000.0,63616,0.0,0.0,51.18
+1. Geography (top-50 cities),179710.0,58647,7.81,7.81,47.18
+2. Bureau score >= 600,,54992,6.23,13.56,44.24
+"3. Spend >= INR 2,000",,47619,13.41,25.15,38.31
+4. Repayment >= 0.150,,47236,0.8,25.75,38.0

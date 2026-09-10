@@ -1,0 +1,2 @@
+total_rows,dropped_invalid_credit_score,dropped_invalid_income,dropped_excess_nulls,valid_rows,purity
+200000,2000,1500,1500,195000,0.975

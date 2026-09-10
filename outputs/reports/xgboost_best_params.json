@@ -1,0 +1,15 @@
+{
+  "max_depth": 8,
+  "learning_rate": 0.16013827199325953,
+  "n_estimators": 156,
+  "min_child_weight": 6,
+  "subsample": 0.666492580070948,
+  "colsample_bytree": 0.6266049160470064,
+  "gamma": 4.945340275743538,
+  "reg_alpha": 8.74286245006134,
+  "reg_lambda": 0.0029224770845152044,
+  "credit_score_threshold": 780,
+  "rule_positive_rate": 0.09427131848590059,
+  "final_positive_rate": 0.13474892031501398,
+  "n_flipped": 2344
+}

@@ -1,0 +1,8 @@
+metric,value,source_note
+credit_cards_in_force,119000000.0,RBI FY24-25 (approx)
+unique_cardholders_est,38000000.0,119M / 3.1 cards per holder
+avg_cards_per_holder,3.1,CIBIL multi-card estimate
+upi_credit_yoy_growth_pct,180.0,NPCI credit-on-UPI growth
+cred_valuation_inr_cr,2735.0,Company disclosures (approx)
+sample_cards,200000.0,This project
+card_scale_factor,595.0,119M / sample

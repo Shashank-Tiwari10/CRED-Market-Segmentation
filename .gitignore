@@ -1,0 +1,25 @@
+# Large generated datasets - regenerate with `python run_pipeline.py`
+data/raw/credit_cards_119M_sample.csv
+data/raw/monthly_spend_panel.csv.gz
+data/processed/*.csv
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+
+# Model artefacts above GitHub's comfort zone are kept; the optuna study is small
+outputs/pipeline.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

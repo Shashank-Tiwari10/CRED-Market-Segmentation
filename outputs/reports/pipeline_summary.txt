@@ -1,0 +1,17 @@
+============================================================
+CRED PIPELINE - FINAL METRICS SUMMARY
+============================================================
+Data Purity:               97.5% (target: >=92%)    [PASS]
+Optimal Clusters:         k=6  (target: 6)         [PASS]
+Silhouette Score:         0.41 (target: ~0.42)      [PASS]
+Jaccard Stability:        0.97 (target: >=0.75)      [PASS]
+SARIMA MAPE:               9.2% (target: <12%)      [PASS]
+ARIMA MAPE:                8.6% (target: <12%)      [PASS]
+XGBoost AUC:              0.83 (target: >=0.80)      [PASS]
+Top Decile Lift:          6.7x                       [INFO]
+Beachhead Size:           3.8M core / 11.4M total  [INFO]
+MC Holder 95% CI:         35.7M - 39.4M              [INFO]
+MC Jaccard Mean:          1.00                       [INFO]
+MC AUC Mean:              0.828 (95% CI 0.823-0.833)  [INFO]
+Total runtime:            11.7 min
+============================================================
